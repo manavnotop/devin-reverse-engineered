@@ -1,0 +1,5 @@
+# ignore tar and extracted bundle - only markdown is published
+*.tar.gz
+*.tgz
+bundle/
+.DS_Store
